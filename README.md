@@ -6,3 +6,5 @@ I'm looking forward to using github to approach my goal.
 And hopefully, I'll be successful.
 
 Thank you guys.
+
+How do I use time more efficient?
